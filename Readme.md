@@ -1,0 +1,6 @@
+# Image Classification Rock Paper Scissors
+by: Auriwan yasper
+## Abstrak
+Pengenalan gambar merupakan teknologi yang banyak diterapkan dalam industri, baik dalam robotika ataupun industri keamanan seperti face recognition. Dengan perkembangan teknologi saat ini, sudah banyak robot artificial intelligence yang memiliki kemampuan layaknya manusia, mereka dapat mengenali objek dengan presisi tinggi. Robot AI ini sudah banyak beredar di pasar kolektor mainan, dimana robot tersebut mampu melakukan berbagai macam permainan dengan manusia. Sehingga projek ini merupakan salah satu permainan yang dapat ditambahkan pada robot ai tersebut. Data yang digunakan pada projek ini adalah data gambar rock paper scissor sebanyak 2188 data dengan 3 kategori. Model yang digunakan adalah model yang sudah banyak digunakan dalam projek pengenalan gambar yaitu model Convolutional Neural Network. Pada projek ini diperoleh akurasi sebesar 96.8% dan pada data validasi diperoleh akurasi sebesar 98.44%
+
+##### Keyword: CNN, Image Classification, Data Generator, Rock Paper Scissor
